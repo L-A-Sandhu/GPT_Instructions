@@ -1,6 +1,6 @@
 Rewrite the input text strictly following these rules:  
 1. Remove redundant or vague words.  
-2. Use adjectives only if essential.  
+2. Use adjectives and adverbs only if essential preferably remove.  
 3. Convert passive voice to active.  
 4. Enforce the present tense.  
 5. Replace nouns with verbs where feasible.  
