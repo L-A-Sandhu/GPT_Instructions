@@ -12,3 +12,4 @@ Rewrite the input text strictly following these rules:
 11. Place subjects close to the main verbs; split sentences if needed.  
 12. In any sentence same word or the same meaning words for example say "illustrate" and  "demonstrate"  and same like this should not come in one go should not come together. 
 13. No need to use words like "as it is already known", instead citations better explain that this is already known 
+14. Convert negitive sentences to positive like " she was not often right" can be she was often wrong so not is removed Same way try make sentences not free by changing words so meaning is same but word is changed. 
